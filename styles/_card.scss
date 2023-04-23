@@ -1,0 +1,28 @@
+.card {
+  padding: 2rem;
+  width: 36.5rem;
+  background-color: $Color-white;
+  border-radius: 2rem;
+
+  &__image {
+    width: 100%;
+    border-radius: 1.5rem;
+  }
+
+  &__content {
+    margin: 2rem;
+    text-align: center;
+  }
+
+  &__title {
+    color: $Color-dark-blue;
+    margin-bottom: 2rem;
+  }
+
+  &__text {
+    font-size: 1.6rem;
+    text-align: center;
+    color: $Color-grayish-blue;
+  }
+
+}

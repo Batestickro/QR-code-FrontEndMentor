@@ -1,0 +1,34 @@
+$Color-white: hsl(0, 0%, 100%);
+$Color-gray-Light: hsl(212, 45%, 89%);
+$Color-grayish-blue: hsl(220, 15%, 55%);
+$Color-dark-blue: hsl(218, 44%, 22%);
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+
+  @media only screen and (max-width: 56.5em) {
+    font-size: 50%;
+  }
+}
+
+body {
+  height: 100vh;
+  height: 100svh;
+  font-family: 'Outfif', sans-serif;
+  font-weight: 400;
+  background-color: $Color-gray-Light;
+  display: grid;
+  place-content: center;
+}
