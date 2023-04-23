@@ -23,8 +23,7 @@ The project look simple however makes you think about some concepts and search a
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [QR-Code-Page](https://batestickro.github.io/QR-code-FrontEndMentor/)
 
 ## My process
 
