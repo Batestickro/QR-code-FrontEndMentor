@@ -1,26 +1,27 @@
 .card {
-  padding: 2rem;
-  width: 36.5rem;
+  padding: 1.4rem;
+  width: 26.5rem;
   background-color: $Color-white;
-  border-radius: 2rem;
+  border-radius: 1.5rem;
 
   &__image {
     width: 100%;
-    border-radius: 1.5rem;
+    border-radius: 1rem;
   }
 
   &__content {
-    margin: 2rem;
+    margin: 1rem;
     text-align: center;
   }
 
   &__title {
     color: $Color-dark-blue;
     margin-bottom: 2rem;
+    font-size: 1.5rem;
   }
 
   &__text {
-    font-size: 1.6rem;
+    font-size: 1.1rem;
     text-align: center;
     color: $Color-grayish-blue;
   }
